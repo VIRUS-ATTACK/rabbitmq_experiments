@@ -5,7 +5,8 @@
  python3 -m venv pyenv
  source pyenv/bin/activate
  pip install -r requirements.txt
- python new_task.py
  python worker.py
  python worker.py
+ python new_task.py first....
+ python new_task.py second....
  ```
